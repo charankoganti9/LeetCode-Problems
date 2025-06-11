@@ -10,12 +10,14 @@ All about my journey in LeetCode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/charankoganti9/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
