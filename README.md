@@ -20,6 +20,7 @@ All about my journey in LeetCode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0283-move-zeroes) |
 ## Sorting
@@ -51,6 +52,7 @@ All about my journey in LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -60,4 +62,8 @@ All about my journey in LeetCode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
