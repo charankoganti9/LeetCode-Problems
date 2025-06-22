@@ -66,4 +66,9 @@ All about my journey in LeetCode
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0838-design-linked-list](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0838-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
