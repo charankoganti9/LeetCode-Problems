@@ -56,6 +56,7 @@ All about my journey in LeetCode
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/charankoganti9/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
@@ -78,10 +79,12 @@ All about my journey in LeetCode
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/charankoganti9/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
