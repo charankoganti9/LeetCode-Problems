@@ -17,6 +17,7 @@ All about my journey in LeetCode
 | [0169-majority-element](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0817-design-hashmap](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0817-design-hashmap) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/charankoganti9/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/charankoganti9/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -64,6 +65,7 @@ All about my journey in LeetCode
 | [0169-majority-element](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0817-design-hashmap](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0817-design-hashmap) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/charankoganti9/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
@@ -78,10 +80,12 @@ All about my journey in LeetCode
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0817-design-hashmap](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0838-design-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0838-design-linked-list) |
 ## String
 |  |
@@ -99,4 +103,8 @@ All about my journey in LeetCode
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
