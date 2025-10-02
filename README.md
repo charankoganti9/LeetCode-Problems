@@ -70,6 +70,7 @@ All about my journey in LeetCode
 | [0160-intersection-of-two-linked-lists](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0817-design-hashmap](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0817-design-hashmap) |
@@ -85,6 +86,7 @@ All about my journey in LeetCode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/charankoganti9/LeetCode-Problems/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/charankoganti9/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 ## Linked List
@@ -102,6 +104,7 @@ All about my journey in LeetCode
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0383-ransom-note](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/charankoganti9/LeetCode-Problems/tree/master/1297-maximum-number-of-balloons) |
