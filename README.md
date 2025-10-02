@@ -7,6 +7,7 @@ All about my journey in LeetCode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -33,6 +34,7 @@ All about my journey in LeetCode
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Binary Search
@@ -63,6 +65,7 @@ All about my journey in LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -96,6 +99,7 @@ All about my journey in LeetCode
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/charankoganti9/LeetCode-Problems/tree/master/1297-maximum-number-of-balloons) |
