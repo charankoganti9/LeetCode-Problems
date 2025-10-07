@@ -72,6 +72,7 @@ All about my journey in LeetCode
 | [0219-contains-duplicate-ii](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0535-encode-and-decode-tinyurl](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0817-design-hashmap](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0817-design-hashmap) |
 | [1297-maximum-number-of-balloons](https://github.com/charankoganti9/LeetCode-Problems/tree/master/1297-maximum-number-of-balloons) |
@@ -98,6 +99,7 @@ All about my journey in LeetCode
 ## Design
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0838-design-linked-list) |
 ## String
@@ -106,6 +108,7 @@ All about my journey in LeetCode
 | [0049-group-anagrams](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0535-encode-and-decode-tinyurl](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/charankoganti9/LeetCode-Problems/tree/master/1297-maximum-number-of-balloons) |
 ## Sliding Window
@@ -123,5 +126,6 @@ All about my journey in LeetCode
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
