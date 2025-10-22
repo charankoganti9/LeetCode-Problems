@@ -111,6 +111,7 @@ All about my journey in LeetCode
 | [0424-longest-repeating-character-replacement](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/charankoganti9/LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/charankoganti9/LeetCode-Problems/tree/master/1297-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
@@ -133,4 +134,5 @@ All about my journey in LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/charankoganti9/LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
