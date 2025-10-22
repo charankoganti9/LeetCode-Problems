@@ -105,6 +105,7 @@ All about my journey in LeetCode
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -128,4 +129,8 @@ All about my journey in LeetCode
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0817-design-hashmap) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/charankoganti9/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
